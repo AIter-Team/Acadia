@@ -10,6 +10,9 @@ wheels/
 .venv
 .env 
 
+# Development
+dev/
+test/
+
 # Notebooks
 notebooks/
-test/
